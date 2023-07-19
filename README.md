@@ -2,7 +2,8 @@
 
 * [Reference](https://catalog.workshops.aws/eks-blueprints-for-cdk/en-US)
 * [CDK EKS Blueprints](https://aws-quickstart.github.io/cdk-eks-blueprints/)
-* []
+* [CDK EKS Blueprint Team](https://aws-quickstart.github.io/cdk-eks-blueprints/teams/teams/)
+* [CDK EKS Blueprints Addons](https://aws-quickstart.github.io/cdk-eks-blueprints/addons/)
 
 ## Prereq
 
