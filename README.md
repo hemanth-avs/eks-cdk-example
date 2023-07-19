@@ -20,6 +20,10 @@ cd eks-cdk-example
 mkdir my-eks-blueprints
 cd my-eks-blueprints
 cdk init app --language typescript
+
+cp code/my-eks-blueprints-stack.ts my-eks-blueprints/lib/
+cp code/my-eks-blueprints.ts my-eks-blueprints/bin
+cp -r code/teamscode/teams my-eks-blueprints
 ```
 
 Install Blueprints module
